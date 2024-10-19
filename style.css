@@ -25,8 +25,8 @@ body{
 }
 
 .box{
-    height: 18vmin;
-    width: 18vmin;
+    height: 20vmin;
+    width:  20vmin;
     border-radius: 1rem;
     border: none;
     box-shadow: 0 0 1rem  rgba(3, 3, 3, 0.3);
